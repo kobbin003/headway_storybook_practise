@@ -1,3 +1,0 @@
-TO INSTALL --> < npx -p @storybook/cli sb init >
-WHAT GETS INSTALLED --> creates a storybook folder in the root of your app folder.
-TO RUN     --> < npm run storybook >
